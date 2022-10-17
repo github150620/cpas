@@ -1,6 +1,5 @@
 # cpas
-让一台内网服务器变成一台公网服务器。
-Make a server in private network like a server in public network.
+让一台内网服务器变成一台公网服务器。(Make a server in private network like a server in public network.)
 
 ## 用在哪里？(Where to use?)
 * 在外访问家或公司内的HTTP或HTTPS服务器
