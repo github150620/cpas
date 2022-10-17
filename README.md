@@ -30,6 +30,8 @@ Client      Proxy      Agent      Server
 ```
 
 ## 使用
+token是身份验证的标识，proxy和agent必须使用相同的token。
+
 ### 云服务器上配置并运行proxy程序
 ```
 # ./proxy -token abcdefgh12345678 -client :22 -agent :8022
